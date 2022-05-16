@@ -1,0 +1,19 @@
+{
+    "name": "myleague",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "dev": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hoihoi1815/myleague-backend.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/hoihoi1815/myleague-backend/issues"
+    },
+    "homepage": "https://github.com/hoihoi1815/myleague-backend#readme"
+}
